@@ -1,4 +1,4 @@
-#Projeto WEB - CRUD de  Produtos
+#Projeto WEB - CRUD of products
 
 Using Angular for Front-End
 
