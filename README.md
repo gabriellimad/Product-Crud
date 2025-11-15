@@ -1,7 +1,7 @@
 #Projeto WEB - CRUD de  Produtos
 
-Utilizado Angular para Front-End
+Using Angular for Front-End
 
-ASP.NET Core 6 para o Backend
+ASP.NET Core 6 for Backend
 
-SQL Server como banco de dados
+SQL Server as database
